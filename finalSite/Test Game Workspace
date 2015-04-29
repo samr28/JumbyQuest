@@ -1,0 +1,19 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "0B6WXd8R95DQoNTZKN3FMQXJXRWs",
+      "contentType": "text/html",
+      "name": "index.html",
+      "path": "0B6WXd8R95DQoZ09CbkRLdGZDY2s/Platformer_Example_Test"
+    }
+  ],
+  "cssFiles": [],
+  "javascriptFiles": [
+    {
+      "fileId": "0B6WXd8R95DQoT1BTaG1BcjRIdGc",
+      "contentType": "text/javascript",
+      "name": "platformer.js",
+      "path": "0B6WXd8R95DQoZ09CbkRLdGZDY2s/Platformer_Example_Test"
+    }
+  ]
+}
