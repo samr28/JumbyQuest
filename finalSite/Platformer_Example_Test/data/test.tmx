@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="38" height="38" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="test" tilewidth="32" tileheight="32" spacing="1">
+  <image source="../../../../Downloads/test.png" width="192" height="192"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="38" height="38">
+  <properties>
+   <property name="collision" value="true"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzsEJACAMBME0YT/2X5UF6EMCEQMzsO+7CAC6Ge/35mVx6oNfW4W30jp9BQAAgIwFe0UK3w==
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1"/>
+ <imagelayer name="Image Layer 1" y="1"/>
+ <layer name="collision" width="38" height="38">
+  <properties>
+   <property name="type" value="0"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0MEJACAMA8AuIbj/pF3Agh8t6B3klU9IBMB/5iJVd9PYTPfOF1S/AgAAAOckZ9MCdA==
+  </data>
+ </layer>
+ <layer name="backround" width="38" height="38">
+  <data encoding="base64" compression="zlib">
+   eJztziEOgDAQAMGCAAGiqPb/L+U0OYe4BGaS9dsa8NYSrdUTiS3aqycSR3RWTyR6dFVPfNCI5iMAAADgn26j9ADA
+  </data>
+ </layer>
+</map>
